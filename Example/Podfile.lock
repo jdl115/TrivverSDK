@@ -14,18 +14,18 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - TbsoRendererFramework (1.0.1)
-  - TrivverSDK (1.0.6):
+  - TbsoRendererFramework (1.0.2)
+  - TrivverSDK (1.0.7):
     - AFNetworking (~> 3.1)
-    - TbsoRendererFramework (~> 1.0.1)
+    - TbsoRendererFramework
 
 DEPENDENCIES:
   - TrivverSDK
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  TbsoRendererFramework: 37fbca08feb3ae98b60e97dd7f3093777070cf30
-  TrivverSDK: c2e340f92cc84daa0cdca674aad272ece5cc379f
+  TbsoRendererFramework: 9888d2d938512f37d9d49d3f5e352cdc521d3666
+  TrivverSDK: 76232f114b6525ce543daf2fb8e2be3471c25618
 
 PODFILE CHECKSUM: e71652609f0e0667ae3491e971ebf83b7e4a1e0f
 
