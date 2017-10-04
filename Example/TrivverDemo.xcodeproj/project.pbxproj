@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AAA0FB161F44080800532106 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA0FB151F44080800532106 /* main.m */; };
+		AAA0FB191F44080800532106 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA0FB181F44080800532106 /* AppDelegate.m */; };
+		AAA0FB1C1F44080800532106 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA0FB1B1F44080800532106 /* ViewController.m */; };
+		AAA0FB1F1F44080800532106 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAA0FB1D1F44080800532106 /* Main.storyboard */; };
+		AAA0FB211F44080800532106 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAA0FB201F44080800532106 /* Assets.xcassets */; };
+		AAA0FB241F44080800532106 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAA0FB221F44080800532106 /* LaunchScreen.storyboard */; };
+		AAA0FB2F1F44080800532106 /* TrivverDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AAA0FB2E1F44080800532106 /* TrivverDemoTests.m */; };
+		E9939F21BCBE1CB427DA722E /* Pods_TrivverDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1711472FC2481034D1BE5FE2 /* Pods_TrivverDemo.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AAA0FB2B1F44080800532106 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AAA0FB091F44080800532106 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AAA0FB101F44080800532106;
+			remoteInfo = TrivverDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		AAA0FB3F1F4408C600532106 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1711472FC2481034D1BE5FE2 /* Pods_TrivverDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrivverDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		83B89891F0BCD286A0AC5CA9 /* Pods-TrivverDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrivverDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-TrivverDemo/Pods-TrivverDemo.release.xcconfig"; sourceTree = "<group>"; };
+		997CF4E9BD513B3E8DC40B20 /* Pods-TrivverDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrivverDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TrivverDemo/Pods-TrivverDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		AAA0FB111F44080800532106 /* TrivverDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrivverDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAA0FB151F44080800532106 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AAA0FB171F44080800532106 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AAA0FB181F44080800532106 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AAA0FB1A1F44080800532106 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		AAA0FB1B1F44080800532106 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AAA0FB1E1F44080800532106 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AAA0FB201F44080800532106 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AAA0FB231F44080800532106 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AAA0FB251F44080800532106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAA0FB2A1F44080800532106 /* TrivverDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrivverDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAA0FB2E1F44080800532106 /* TrivverDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrivverDemoTests.m; sourceTree = "<group>"; };
+		AAA0FB301F44080800532106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AAA0FB0E1F44080800532106 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E9939F21BCBE1CB427DA722E /* Pods_TrivverDemo.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AAA0FB271F44080800532106 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0BA7F05BB47B7A634C361432 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				997CF4E9BD513B3E8DC40B20 /* Pods-TrivverDemo.debug.xcconfig */,
+				83B89891F0BCD286A0AC5CA9 /* Pods-TrivverDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		AAA0FB081F44080800532106 = {
+			isa = PBXGroup;
+			children = (
+				AAA0FB131F44080800532106 /* TrivverDemo */,
+				AAA0FB2D1F44080800532106 /* TrivverDemoTests */,
+				AAA0FB121F44080800532106 /* Products */,
+				0BA7F05BB47B7A634C361432 /* Pods */,
+				DF9A8555C5856F1F734842D1 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		AAA0FB121F44080800532106 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AAA0FB111F44080800532106 /* TrivverDemo.app */,
+				AAA0FB2A1F44080800532106 /* TrivverDemoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AAA0FB131F44080800532106 /* TrivverDemo */ = {
+			isa = PBXGroup;
+			children = (
+				AAA0FB171F44080800532106 /* AppDelegate.h */,
+				AAA0FB181F44080800532106 /* AppDelegate.m */,
+				AAA0FB1A1F44080800532106 /* ViewController.h */,
+				AAA0FB1B1F44080800532106 /* ViewController.m */,
+				AAA0FB1D1F44080800532106 /* Main.storyboard */,
+				AAA0FB201F44080800532106 /* Assets.xcassets */,
+				AAA0FB221F44080800532106 /* LaunchScreen.storyboard */,
+				AAA0FB251F44080800532106 /* Info.plist */,
+				AAA0FB141F44080800532106 /* Supporting Files */,
+			);
+			path = TrivverDemo;
+			sourceTree = "<group>";
+		};
+		AAA0FB141F44080800532106 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AAA0FB151F44080800532106 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AAA0FB2D1F44080800532106 /* TrivverDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				AAA0FB2E1F44080800532106 /* TrivverDemoTests.m */,
+				AAA0FB301F44080800532106 /* Info.plist */,
+			);
+			path = TrivverDemoTests;
+			sourceTree = "<group>";
+		};
+		DF9A8555C5856F1F734842D1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1711472FC2481034D1BE5FE2 /* Pods_TrivverDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AAA0FB101F44080800532106 /* TrivverDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AAA0FB331F44080800532106 /* Build configuration list for PBXNativeTarget "TrivverDemo" */;
+			buildPhases = (
+				7787247C1C453B77AEF6D253 /* [CP] Check Pods Manifest.lock */,
+				AAA0FB0D1F44080800532106 /* Sources */,
+				AAA0FB0E1F44080800532106 /* Frameworks */,
+				AAA0FB0F1F44080800532106 /* Resources */,
+				AAA0FB3F1F4408C600532106 /* Embed Frameworks */,
+				B0FE9D1F42251E24AF062567 /* [CP] Embed Pods Frameworks */,
+				92006127681F717B7046ADCD /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TrivverDemo;
+			productName = TrivverDemo;
+			productReference = AAA0FB111F44080800532106 /* TrivverDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AAA0FB291F44080800532106 /* TrivverDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AAA0FB361F44080800532106 /* Build configuration list for PBXNativeTarget "TrivverDemoTests" */;
+			buildPhases = (
+				AAA0FB261F44080800532106 /* Sources */,
+				AAA0FB271F44080800532106 /* Frameworks */,
+				AAA0FB281F44080800532106 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AAA0FB2C1F44080800532106 /* PBXTargetDependency */,
+			);
+			name = TrivverDemoTests;
+			productName = TrivverDemoTests;
+			productReference = AAA0FB2A1F44080800532106 /* TrivverDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AAA0FB091F44080800532106 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Saritasa;
+				TargetAttributes = {
+					AAA0FB101F44080800532106 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 97CJYDC5AL;
+						ProvisioningStyle = Automatic;
+					};
+					AAA0FB291F44080800532106 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 97CJYDC5AL;
+						ProvisioningStyle = Automatic;
+						TestTargetID = AAA0FB101F44080800532106;
+					};
+				};
+			};
+			buildConfigurationList = AAA0FB0C1F44080800532106 /* Build configuration list for PBXProject "TrivverDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AAA0FB081F44080800532106;
+			productRefGroup = AAA0FB121F44080800532106 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AAA0FB101F44080800532106 /* TrivverDemo */,
+				AAA0FB291F44080800532106 /* TrivverDemoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AAA0FB0F1F44080800532106 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAA0FB241F44080800532106 /* LaunchScreen.storyboard in Resources */,
+				AAA0FB211F44080800532106 /* Assets.xcassets in Resources */,
+				AAA0FB1F1F44080800532106 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AAA0FB281F44080800532106 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7787247C1C453B77AEF6D253 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TrivverDemo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		92006127681F717B7046ADCD /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrivverDemo/Pods-TrivverDemo-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B0FE9D1F42251E24AF062567 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TrivverDemo/Pods-TrivverDemo-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${PODS_ROOT}/TbsoRendererFramework/Framework/TbsoRendererFramework.framework",
+				"${PODS_ROOT}/TrivverSDK/Framework/TrivverSDK.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TbsoRendererFramework.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TrivverSDK.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrivverDemo/Pods-TrivverDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AAA0FB0D1F44080800532106 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAA0FB1C1F44080800532106 /* ViewController.m in Sources */,
+				AAA0FB191F44080800532106 /* AppDelegate.m in Sources */,
+				AAA0FB161F44080800532106 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AAA0FB261F44080800532106 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAA0FB2F1F44080800532106 /* TrivverDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AAA0FB2C1F44080800532106 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AAA0FB101F44080800532106 /* TrivverDemo */;
+			targetProxy = AAA0FB2B1F44080800532106 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AAA0FB1D1F44080800532106 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AAA0FB1E1F44080800532106 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AAA0FB221F44080800532106 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AAA0FB231F44080800532106 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AAA0FB311F44080800532106 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AAA0FB321F44080800532106 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AAA0FB341F44080800532106 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 997CF4E9BD513B3E8DC40B20 /* Pods-TrivverDemo.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97CJYDC5AL;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/TrivverDemo",
+				);
+				INFOPLIST_FILE = TrivverDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.saritasa.enterprise.TrivverDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AAA0FB351F44080800532106 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 83B89891F0BCD286A0AC5CA9 /* Pods-TrivverDemo.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 97CJYDC5AL;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/TrivverDemo",
+				);
+				INFOPLIST_FILE = TrivverDemo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.saritasa.enterprise.TrivverDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		AAA0FB371F44080800532106 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 97CJYDC5AL;
+				INFOPLIST_FILE = TrivverDemoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.saritasa.enterprise.TrivverDemoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TrivverDemo.app/TrivverDemo";
+			};
+			name = Debug;
+		};
+		AAA0FB381F44080800532106 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 97CJYDC5AL;
+				INFOPLIST_FILE = TrivverDemoTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.saritasa.enterprise.TrivverDemoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TrivverDemo.app/TrivverDemo";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AAA0FB0C1F44080800532106 /* Build configuration list for PBXProject "TrivverDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAA0FB311F44080800532106 /* Debug */,
+				AAA0FB321F44080800532106 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AAA0FB331F44080800532106 /* Build configuration list for PBXNativeTarget "TrivverDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAA0FB341F44080800532106 /* Debug */,
+				AAA0FB351F44080800532106 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AAA0FB361F44080800532106 /* Build configuration list for PBXNativeTarget "TrivverDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAA0FB371F44080800532106 /* Debug */,
+				AAA0FB381F44080800532106 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AAA0FB091F44080800532106 /* Project object */;
+}

@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - TbsoRendererFramework (1.0.1)
+  - TrivverSDK (1.0.6):
+    - AFNetworking (~> 3.1)
+    - TbsoRendererFramework (~> 1.0.1)
+
+DEPENDENCIES:
+  - TrivverSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  TbsoRendererFramework: 37fbca08feb3ae98b60e97dd7f3093777070cf30
+  TrivverSDK: c2e340f92cc84daa0cdca674aad272ece5cc379f
+
+PODFILE CHECKSUM: e71652609f0e0667ae3491e971ebf83b7e4a1e0f
+
+COCOAPODS: 1.4.0.beta.1
