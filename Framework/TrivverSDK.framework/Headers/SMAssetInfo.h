@@ -83,6 +83,9 @@
 /* TBSO2 iOS file [optional]
  */
 @property(nonatomic) NSString* fileIos;
+/* TBSO2 iOS Native file [optional]
+ */
+@property(nonatomic) NSString* fileIosNative;
 /* TBSO2 Android file [optional]
  */
 @property(nonatomic) NSString* fileAndroid;

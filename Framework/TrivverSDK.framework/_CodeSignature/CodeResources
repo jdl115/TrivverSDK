@@ -6,19 +6,19 @@
 	<dict>
 		<key>AssetCollectionViewCell.nib</key>
 		<data>
-		g5geQAgm0pXrddkLeVj0hFsHAek=
+		NjiNRlQBkaNM0HVJ7RzQwfAJ+98=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		25ZOeBJPN2nC6FtGOXUigbonQ1I=
+		StGvZoPnS5Qe/yfj/Y8wPh/W1Ws=
 		</data>
 		<key>CouponView.nib</key>
 		<data>
-		oKDCQWOwuk1UU7Ab44TI8L3n4/Y=
+		A0m0PJmZGhW+jgsh7JM7FprkYvM=
 		</data>
 		<key>Headers/SMAssetInfo.h</key>
 		<data>
-		/taZjjtA+sPICWdFEITfywSGO5I=
+		kYhOjA8IwzAr51eudivOCLlquug=
 		</data>
 		<key>Headers/SMBaseObject.h</key>
 		<data>
@@ -66,15 +66,15 @@
 		</data>
 		<key>SCNContentView.nib</key>
 		<data>
-		TvUnUI96M47w5EzIvM0U7/sfs+k=
+		dD/uU0Usnz9nPWnFXjHlEgrkIso=
 		</data>
 		<key>SmartTabView.nib</key>
 		<data>
-		nnE/mFuAECuGX9tUYXRciBCteqk=
+		pGtnro43hR/dc7vMHZLCF1Y4E2I=
 		</data>
 		<key>VideoView.nib</key>
 		<data>
-		eRLbNpbJZmtlYcwietwUQEcWR1w=
+		u5HCvanlfNl2gLOzPxF14InWW7c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,44 +83,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g5geQAgm0pXrddkLeVj0hFsHAek=
+			NjiNRlQBkaNM0HVJ7RzQwfAJ+98=
 			</data>
 			<key>hash2</key>
 			<data>
-			owkdWt0u8T/b8tzkoD5vKCDE4xzKA0zrgj7gY1WTpUo=
+			z3hV3sYQ4Qy8WGC8/d0gRiKCSMzPZDAUSkjqGKWcB48=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			25ZOeBJPN2nC6FtGOXUigbonQ1I=
+			StGvZoPnS5Qe/yfj/Y8wPh/W1Ws=
 			</data>
 			<key>hash2</key>
 			<data>
-			N6Az0Xn6d5A2kdFgk5B62ziw2xUB6P/VUE/2oRcXDZM=
+			6OP4KtPWzCfBpcLXwuxZIy2ceoik2Osa7usdiHHATVw=
 			</data>
 		</dict>
 		<key>CouponView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oKDCQWOwuk1UU7Ab44TI8L3n4/Y=
+			A0m0PJmZGhW+jgsh7JM7FprkYvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			J0rx8OrAsRo68Uz0kG+SihcRTIJsTArIh7ES7ppS5co=
+			Anx53JZZQgLkfLR0uGVqICTdDtfjTEGV63rU9tlFp9c=
 			</data>
 		</dict>
 		<key>Headers/SMAssetInfo.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/taZjjtA+sPICWdFEITfywSGO5I=
+			kYhOjA8IwzAr51eudivOCLlquug=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q6HLqPYrO7ro8FZLy3n5l5AtYcyADoEQVoF2U3QG8Og=
+			r40rkjv9AltRF1TkxOfK/vqcG6mCMujTHQDbTNvMrtY=
 			</data>
 		</dict>
 		<key>Headers/SMBaseObject.h</key>
@@ -237,33 +237,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TvUnUI96M47w5EzIvM0U7/sfs+k=
+			dD/uU0Usnz9nPWnFXjHlEgrkIso=
 			</data>
 			<key>hash2</key>
 			<data>
-			i+Fw8NLPEm3zj0CkxWorn1PaMpANQMvPKCTA7wKY+P8=
+			DQFuAfhmnuB0+DFgGCFZd1kHHQPxjtrjY1bAS64BebI=
 			</data>
 		</dict>
 		<key>SmartTabView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nnE/mFuAECuGX9tUYXRciBCteqk=
+			pGtnro43hR/dc7vMHZLCF1Y4E2I=
 			</data>
 			<key>hash2</key>
 			<data>
-			rgC7rlXDR417ZHOW1BcJCf3ufaji3LM/0zqc5qNwYjo=
+			Pcg68jfyLNqO7MZAmJuSx53qpyvwfMLJ37wh91FiEO0=
 			</data>
 		</dict>
 		<key>VideoView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eRLbNpbJZmtlYcwietwUQEcWR1w=
+			u5HCvanlfNl2gLOzPxF14InWW7c=
 			</data>
 			<key>hash2</key>
 			<data>
-			oMOAvoi+0mgtXiTOgb1khfFYzJH08wddzLD0mO7faXE=
+			lvtPx6PdSRCF2DVxujgn2FAdG8ticKcqg/TYkbaI+iQ=
 			</data>
 		</dict>
 	</dict>

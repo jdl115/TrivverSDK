@@ -1,6 +1,0 @@
-framework module TrivverSDK {
-  umbrella header "TrivverSDK.h"
-
-  export *
-  module * { export * }
-}

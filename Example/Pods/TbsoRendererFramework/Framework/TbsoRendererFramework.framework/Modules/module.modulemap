@@ -1,6 +1,0 @@
-framework module TbsoRendererFramework {
-  umbrella header "TbsoRendererFramework.h"
-
-  export *
-  module * { export * }
-}
